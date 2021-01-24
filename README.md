@@ -1,6 +1,8 @@
 # html-class-prefixer
 
-A Vue app that accepts markup and a string prefix, the prefix is applied to each class in the markup
+A Vue app that to apply a prefix to your classes in a piece of markup. Just paste your code and specify a prefix. 
+
+![GitHub Logo](screenshot.png)
 
 ## Project setup
 ```
