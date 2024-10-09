@@ -1,6 +1,6 @@
 # html-class-prefixer
 
-A Vue app that to apply a prefix to your classes in a piece of markup. Just paste your code and specify a prefix. 
+Apply a prefix to your classes in a piece of markup. Just paste your code and specify a prefix.
 
 ![GitHub Logo](screenshot.png)
 
